@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "§8This §7resource §8pack §7replaces §8the §7regular §8totem §7with §8a §7panda!",
+    "supported_formats": {
+      "min_inclusive": 33,
+      "max_inclusive": 34
+    }
+  }
+}
